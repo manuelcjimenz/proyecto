@@ -3,7 +3,7 @@
  *  @since: prototipo2.0
  *  @source: CorreoTest.java 
  *  @version: 2.0 - 2018/04/20
- *  @author: ajp
+ *  @author: Grupo 1: Manuel Castillo Jiménez
  */
 
 package test.modelo;
